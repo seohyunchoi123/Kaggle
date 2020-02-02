@@ -1,4 +1,4 @@
 ### Kaggle
 
 **1. House Prices - Advanced Regression Techniques**  
-&nbsp;&nbsp;&nbsp; Final result: 0.11528 (505/5025 as of 2 Feb 2020)
+&nbsp;&nbsp;&nbsp; Final result: 0.11528 (Leaderboard Ranking: 505/5025 as of 2 Feb 2020)
