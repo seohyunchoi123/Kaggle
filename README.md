@@ -18,4 +18,4 @@
 
 **5. LG Complaints Predict (Dacon)**   
 &nbsp;&nbsp;&nbsp; Link: https://dacon.io/competitions/official/235687/overview/  
-&nbsp;&nbsp;&nbsp; Final result(AUC): 0.83416 (Leaderboard Ranking: 53/1,385, Top 4%)  
+&nbsp;&nbsp;&nbsp; Final result(AUC): 0.83416 (Leaderboard Ranking: 53/1385, Top 4%)  
