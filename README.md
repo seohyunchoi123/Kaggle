@@ -6,12 +6,16 @@
 
 **2. Predicting Temperature (Dacon)**   
 &nbsp;&nbsp;&nbsp; Link: https://www.dacon.io/competitions/official/235584/overview/  
-&nbsp;&nbsp;&nbsp; Final result(MSE): 5.71998 (Leaderboard Ranking: 30/373, Top 8%)  
+&nbsp;&nbsp;&nbsp; Final result(MSE): 5.71998 (Leaderboard Ranking: 28/1,212, Top 2%)  
 
 **3. Predicting Collding Body (Dacon)**   
 &nbsp;&nbsp;&nbsp; Link: https://www.dacon.io/competitions/official/235614/overview/  
-&nbsp;&nbsp;&nbsp; Final result(KAERI): 0.0052 (Leaderboard Ranking: 10/225, Top 4%)  
+&nbsp;&nbsp;&nbsp; Final result(KAERI): 0.0052 (Leaderboard Ranking: 10/671, Top 1%)  
 
 **4. M5 Forecasting - Accuracy**   
 &nbsp;&nbsp;&nbsp; Link: https://www.kaggle.com/c/m5-forecasting-accuracy/overview  
 &nbsp;&nbsp;&nbsp; Final result(Weighted MSE): 0.66424 (Leaderboard Ranking: 362/5558, Top 7%)  
+
+**5. LG Complaints Predict (Dacon)**   
+&nbsp;&nbsp;&nbsp; Link: https://dacon.io/competitions/official/235687/overview/ 
+&nbsp;&nbsp;&nbsp; Final result(Weighted MSE): 0.66424 (Leaderboard Ranking: 53/1,385, Top 4%)  
