@@ -17,5 +17,5 @@
 &nbsp;&nbsp;&nbsp; Final result(Weighted MSE): 0.66424 (Leaderboard Ranking: 362/5558, Top 7%)  
 
 **5. LG Complaints Predict (Dacon)**   
-&nbsp;&nbsp;&nbsp; Link: https://dacon.io/competitions/official/235687/overview/ 
+&nbsp;&nbsp;&nbsp; Link: https://dacon.io/competitions/official/235687/overview/  
 &nbsp;&nbsp;&nbsp; Final result(AUC): 0.83416 (Leaderboard Ranking: 53/1,385, Top 4%)  
